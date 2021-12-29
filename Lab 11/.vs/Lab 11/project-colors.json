@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4f0ffbc-a1ac-407c-9234-294d12c6e179": {
+      "ProjectGuid": "f4f0ffbc-a1ac-407c-9234-294d12c6e179",
+      "DisplayName": "Lab 11",
+      "ColorIndex": 0
+    },
+    "46633941-470e-410d-877c-82fa20f13101": {
+      "ProjectGuid": "46633941-470e-410d-877c-82fa20f13101",
+      "DisplayName": "Lib",
+      "ColorIndex": 1
+    },
+    "17e81b39-2d70-46ec-be00-e6a0a92a56fb": {
+      "ProjectGuid": "17e81b39-2d70-46ec-be00-e6a0a92a56fb",
+      "DisplayName": "TestTestCollections",
+      "ColorIndex": 2
+    },
+    "def739fe-4f25-44bc-9918-5b146a7381dc": {
+      "ProjectGuid": "def739fe-4f25-44bc-9918-5b146a7381dc",
+      "DisplayName": "TestSchoolboy",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

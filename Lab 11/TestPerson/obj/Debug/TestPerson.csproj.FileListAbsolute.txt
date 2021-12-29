@@ -1,0 +1,46 @@
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\TestPerson.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\TestPerson.pdb
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Lib.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Lib.pdb
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Code\С#\Aboba\Lab_10\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Code\С#\Aboba\Lab_10\TestPerson\obj\Debug\TestPerson.csproj.AssemblyReference.cache
+D:\Code\С#\Aboba\Lab_10\TestPerson\obj\Debug\TestPerson.csproj.CoreCompileInputs.cache
+D:\Code\С#\Aboba\Lab_10\TestPerson\obj\Debug\TestPerson.csproj.CopyComplete
+D:\Code\С#\Aboba\Lab_10\TestPerson\obj\Debug\TestPerson.dll
+D:\Code\С#\Aboba\Lab_10\TestPerson\obj\Debug\TestPerson.pdb
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\TestPerson.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\TestPerson.pdb
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Lib.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Lib.pdb
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Code\С#\Aboba\Lab 11\TestPerson\obj\Debug\TestPerson.csproj.AssemblyReference.cache
+D:\Code\С#\Aboba\Lab 11\TestPerson\obj\Debug\TestPerson.csproj.CoreCompileInputs.cache
+D:\Code\С#\Aboba\Lab 11\TestPerson\obj\Debug\TestPerson.csproj.CopyComplete
+D:\Code\С#\Aboba\Lab 11\TestPerson\obj\Debug\TestPerson.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\obj\Debug\TestPerson.pdb
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code\С#\Aboba\Lab 11\TestPerson\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
