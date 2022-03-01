@@ -9,3 +9,14 @@ D:\Code\С#\Aboba\Lab 11\Lab 11\obj\Debug\Lab 11.pdb
 D:\Code\С#\Aboba\Lab 11\Lab 11\bin\Debug\Lib.dll
 D:\Code\С#\Aboba\Lab 11\Lab 11\bin\Debug\Lib.pdb
 D:\Code\С#\Aboba\Lab 11\Lab 11\obj\Debug\Lab 11.csproj.CopyComplete
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\bin\Debug\Lab 11.exe.config
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\bin\Debug\Lab 11.exe
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\bin\Debug\Lab 11.pdb
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\bin\Debug\Lib.dll
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\bin\Debug\Lib.pdb
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\obj\Debug\Lab 11.csproj.AssemblyReference.cache
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\obj\Debug\Lab 11.csproj.SuggestedBindingRedirects.cache
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\obj\Debug\Lab 11.csproj.CoreCompileInputs.cache
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\obj\Debug\Lab 11.csproj.CopyComplete
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\obj\Debug\Lab 11.exe
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lab 11\obj\Debug\Lab 11.pdb

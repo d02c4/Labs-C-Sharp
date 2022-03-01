@@ -10,3 +10,9 @@ D:\Code\С#\Aboba\Lab 11\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
 D:\Code\С#\Aboba\Lab 11\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
 D:\Code\С#\Aboba\Lab 11\Lib\obj\Debug\Lib.dll
 D:\Code\С#\Aboba\Lab 11\Lib\obj\Debug\Lib.pdb
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lib\bin\Debug\Lib.dll
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lib\bin\Debug\Lib.pdb
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lib\obj\Debug\Lib.dll
+D:\Study\Sharp\git_result\Labs-C-Sharp\Lab 11\Lib\obj\Debug\Lib.pdb
