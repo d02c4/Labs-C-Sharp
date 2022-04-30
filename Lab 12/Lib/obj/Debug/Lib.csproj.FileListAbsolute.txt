@@ -1,0 +1,12 @@
+D:\Code\С#\Aboba\Lab_10\Lib\bin\Debug\Lib.dll
+D:\Code\С#\Aboba\Lab_10\Lib\bin\Debug\Lib.pdb
+D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.dll
+D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.pdb
+D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lib\bin\Debug\Lib.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lib\bin\Debug\Lib.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lib\obj\Debug\Lib.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lib\obj\Debug\Lib.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache

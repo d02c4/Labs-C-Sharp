@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lib.Options">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAJAAAAAEIAIIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lib.Person">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAAIAAzSQAgEQEABQABCAEgoQECAIgIAgQIAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lib.Schoolboy">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAEAAAAAAAABECAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Schoolboy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lib.Student">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAQQAAAAAgAAAAMAAAAQEAEQEAAAAAAEAAAQBEBE=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lib.PartTimeStudent">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartTimeStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

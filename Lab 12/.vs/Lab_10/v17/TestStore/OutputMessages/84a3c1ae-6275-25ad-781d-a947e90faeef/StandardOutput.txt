@@ -1,0 +1,259 @@
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 25
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 25
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: w
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: UWU
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvashev
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: Woman
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 4
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Василий
+Surname: Сабуров
+Age: 44
+Sex: Man
+AVG Rating: 2,9
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 4
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 4
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvashev
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvashev
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 3,3
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 2
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 40
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 0
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 120
+Sex: M
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvashev
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvashev
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvashev
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: w
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: w
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: w
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Diluk
+Surname: Chuvashev
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Arataki
+Age: 20
+Sex: Man
+AVG Rating: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Сlass object: Person
+Name: Абоба
+Surname: Chuvasheva
+Age: 20
+Sex: w
+AVG Rating: 5

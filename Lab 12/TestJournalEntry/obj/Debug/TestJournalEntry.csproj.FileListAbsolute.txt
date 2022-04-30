@@ -1,0 +1,26 @@
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\TestJournalEntry.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\TestJournalEntry.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Lab 13.exe
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Lib.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Lab 13.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Lab 13.exe.config
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Lib.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\obj\Debug\TestJournalEntry.csproj.AssemblyReference.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\obj\Debug\TestJournalEntry.csproj.CoreCompileInputs.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\obj\Debug\TestJournalEntry.csproj.CopyComplete
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\obj\Debug\TestJournalEntry.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\TestJournalEntry\obj\Debug\TestJournalEntry.pdb
