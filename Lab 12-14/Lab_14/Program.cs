@@ -23,7 +23,6 @@ namespace Lab_14
             return new NewMyCollection<T>(selectMenList);
         }
 
-
         // расширяющий метод который возвращиет коллекцию, состоящую только из женщин
         public static NewMyCollection<T> SelectAllWomen<T>(this NewMyCollection<T> collection) where T : ICloneable, IComparable
         {
@@ -42,6 +41,9 @@ namespace Lab_14
                             where p is Person person
                             && person.CheckMens(person) == true
                             select p).Count();
+
+            var countMens = (collection.Where(p => p is Person person && person.CheckMens(person) == true).Select(p => p)).Count();
+
             return countMen;
         }
 
@@ -109,38 +111,46 @@ namespace Lab_14
             return new NewMyCollection<T>(orderList);
         }
 
+        public static IEnumerable<IGrouping<int, T>> GroupByAge<T>(this NewMyCollection<T> collection) where T : Person
+        {
+            var GroupByAVGLINQ = collection.OrderBy(p => p.Age).GroupBy(p => p.Age);
+            
+            return GroupByAVGLINQ;
+        }
     }
 
     internal class Program
     {
-
-        private static List<List<Person>> list = new List<List<Person>>();
+        
+        private static Stack<Dictionary<int,Person>> city = new Stack<Dictionary<int, Person>>();
 
         static void Main(string[] args)
-        {
-            var city = new List<Person>();
-            var institution = new List<Person>();
+        {          
+            
 
-            for(int i = 0; i < 10; i++)
+            for (int i = 0; i < 3; i++)
             {
-                var first = RandomClass.GetRadomClass();
-                
-                var second = RandomClass.GetRadomClass();
-                
-                city.Add(first);
-                institution.Add(second);
-                
+                var institution = new Dictionary<int, Person>();
+                for (int j = 0; j < 10; j++)
+                {
+                    var first = RandomClass.GetRadomClass();
+                    institution.Add(j, first);
+                }
+                city.Push(institution);
             }
-            list.Add(city);
-            list.Add(institution);
 
-            Console.WriteLine("Город:");
+            int t = 1;
             foreach (var x in city)
-                x.Show();
+            {
+                Console.WriteLine($"\n\n====================\nУчебное заведение {t}:");
+                t++;
+                foreach (var y in x)
+                {
+                    y.Value.Show();
+                }
+            }
 
-            Console.WriteLine("\nУчебное заведение");
-            foreach (var x in institution)
-                x.Show();
+
             Console.ForegroundColor = ConsoleColor.Gray;
 
 
@@ -148,6 +158,8 @@ namespace Lab_14
             Query2();
             Query3();
             Query4();
+            Query5();
+
             Task2();
 
 
@@ -156,11 +168,58 @@ namespace Lab_14
 
         static public void Task2()
         {
+            Console.WriteLine("Задание 2\n\nРасширяющие методы для своей коллекции");
             Console.Clear();
             NewMyCollection<Person> people = new NewMyCollection<Person>(10);
             people.Print();
-            NewMyCollection<Person> people1 = people.SelectAllMen();
+            PrintMethod(true);
+            Console.WriteLine("Поиск женщин\n");
+            NewMyCollection<Person> people1 = people.SelectAllWomen();
             people1.Print();
+            Console.ReadKey();
+            Console.Clear();
+
+            PrintMethod(false);
+            Console.WriteLine("Количество женщин\n");
+            Console.WriteLine($"Количество: {people.CountWomen()}\n");
+            people1.Print();
+            Console.ReadKey();
+            Console.Clear();
+
+            PrintMethod(true);
+            Console.WriteLine("Максимальный возраст\n");
+            Console.WriteLine($"Max: {people.MaxAge()}\n");
+            people.Print();
+            Console.ReadKey();
+            Console.Clear();
+
+            PrintMethod(false);
+            Console.WriteLine("Средняя оценка у студентов\n");
+            Console.WriteLine($"AVG: {people.AVGRatingStudent()}\n");
+            Console.ReadKey();
+            Console.Clear();
+
+            PrintMethod(true);
+            Console.WriteLine("Сортировка коллекции по имени\n");
+            NewMyCollection<Person> people2 = people.OrderByName();
+            people2.Print();
+            Console.ReadKey();
+            Console.Clear();
+
+            PrintMethod(true);
+            Console.WriteLine("Группировка данных по возрасту\n");
+            var people3 = people.GroupByAge();
+            foreach(var x in people3)
+            {
+                Console.WriteLine("\nВозраст: " + x.Key);
+                foreach(var y in x)
+                {
+                    y.Show();
+                }
+            }
+            Console.ReadKey();
+            Console.Clear();
+
         }
 
 
@@ -234,21 +293,36 @@ namespace Lab_14
             int course = Input(0, 8, 1);
 
             PrintMethod(true);
-            var CourseLINQ = from stud in list
-                             from pers in stud
-                             where pers is Student student && student.Course == course
-                             select pers.Name;
+            var CourseLINQ = from inst in city
+                             from pers in inst
+                             where pers.Value is Student student && student.Course == course
+                             select pers.Value.Name;
 
-            foreach (var s in CourseLINQ)
-                Console.WriteLine($"Имя: {s}");
+            if (CourseLINQ.Count() != 0)
+            {
+                foreach (var s in CourseLINQ)
+                    Console.WriteLine($"Имя: {s}");
+                Console.WriteLine($"Количество: {CourseLINQ.Count()}");
+            }
+            else
+                Console.WriteLine("Студенты заданного курса отсутствуют!");
 
 
             PrintMethod(false);
 
-            var CourseExpention = list.SelectMany(l => l.Where(p => p is Student student && student.Course == course).Select(p => ((Student)p).Name));
+            var CourseExpention = city.SelectMany(inst => inst.Where(p => p.Value is Student student && student.Course == course).Select(p => ((Student)p.Value).Name));
 
-            foreach (var s in CourseExpention)
-                Console.WriteLine($"Имя: {s}");
+            if (CourseExpention.Count() != 0)
+            {
+                foreach (var s in CourseExpention)
+                    Console.WriteLine($"Имя: {s}");
+                Console.WriteLine($"Количество: {CourseExpention.Count()}");
+            }
+            else
+                Console.WriteLine("Студенты заданного курса отсутствуют!");
+
+            Console.ReadKey();
+            Console.Clear();
 
             Console.ResetColor();
         }
@@ -262,14 +336,14 @@ namespace Lab_14
                                 "Имена всех лиц мужского пола и их количество\n");
 
             PrintMethod(true);
-            var NameMenLINQ = from l in list
-                              from p in l
-                              where p.CheckMens(p) == true
-                              select p;
+            var NameMenLINQ = from inst in city
+                              from p in inst
+                              where p.Value.CheckMens(p.Value) == true
+                              select p.Value;
 
-            var CountManLINQ = (from l in list
-                               from p in l
-                               where p.CheckMens(p) == true
+            var CountManLINQ = (from inst in city
+                               from p in inst
+                               where p.Value.CheckMens(p.Value) == true
                                select p).Count();
 
             foreach (var man in NameMenLINQ)
@@ -279,11 +353,14 @@ namespace Lab_14
 
             PrintMethod(false);
 
-            var NameMenExpention = list.SelectMany(l => l.Where(p => p.CheckMens(p)).Select(p => p));
-            var CountMenExpention = list.SelectMany(l => l.Where(p => p.CheckMens(p)).Select(p => p)).Count();
+            var NameMenExpention = city.SelectMany(inst => inst.Where(p => p.Value.CheckMens(p.Value)).Select(p => p.Value));
+            var CountMenExpention = city.SelectMany(inst => inst.Where(p => p.Value.CheckMens(p.Value)).Select(p => p)).Count();
             foreach (var man in NameMenExpention)
                 man.Show();
             Console.WriteLine($"\nИтого {CountMenExpention} элементов");
+
+            Console.ReadKey();
+            Console.Clear();
             Console.ResetColor();
         }
 
@@ -292,12 +369,12 @@ namespace Lab_14
         {
             Console.WriteLine("\n============================================\n" +
                                 "5 запрос\n" +
-                                "Количество студентов которые сдали все экзамены\n");
+                                "Количество студентов отличников\n");
 
             PrintMethod(true);
-            var CountStud5LINQ = (from l in list
-                                from p in l
-                                where p is Student student && student.AVGRating == 5.0
+            var CountStud5LINQ = (from inst in city
+                                from p in inst
+                                where p.Value is Student student && student.AVGRating == 5.0
                                 select p).Count();
 
             Console.WriteLine($"\n\nКоличество студентов отличников: {CountStud5LINQ}");
@@ -305,10 +382,14 @@ namespace Lab_14
 
             PrintMethod(false);
 
-            var CountStud5Expantion = list.SelectMany(l => l.Where(p => p is Student student && student.AVGRating == 5.0)).Count();
+            var CountStud5Expantion = city.SelectMany(inst => inst.Where(p => p.Value is Student student && student.AVGRating == 5.0)).Count();
+            
 
             Console.WriteLine($"\n\nКоличество студентов отличников: {CountStud5Expantion}");
 
+
+            Console.ReadKey();
+            Console.Clear();
             Console.ResetColor();
         }
 
@@ -320,21 +401,64 @@ namespace Lab_14
                                 "Вывести средний балл всех студентов\n");
 
             PrintMethod(true);
-            var CountStud5LINQ = (from l in list
-                                  from p in l
-                                  where p is Student
-                                  select p.AVGRating).Average();
+            var CountStud5LINQ = (from inst in city
+                                  from p in inst
+                                  where p.Value is Student
+                                  select p.Value.AVGRating).Average();
 
             Console.WriteLine($"\nСредний балл всех студентов: {CountStud5LINQ}");
 
 
             PrintMethod(false);
 
-            var CountStud5Expantion = list.SelectMany(l => l.Where(p => p is Student student).Select(p => p.AVGRating)).Average();
+            var CountStud5Expantion = city.SelectMany(inst => inst.Where(p => p.Value is Student student).Select(p => p.Value.AVGRating)).Average();
 
             Console.WriteLine($"\nСредний балл всех студентов: {CountStud5Expantion}");
 
+
+            Console.ReadKey();
+            Console.Clear();
             Console.ResetColor();
         }
+
+
+        static void Query5()
+        {
+            Console.WriteLine("\n============================================\n" +
+                                "7 запрос\n" +
+                                "Сруппировать всех людей по среднему баллу\n");
+
+            PrintMethod(true);
+            var GroupByAVGLINQ = (from inst in city
+                                  from p in inst
+                                  group p.Value by p.Value.AVGRating);
+
+            foreach (IGrouping<double, Person> x in GroupByAVGLINQ)
+            {
+                Console.WriteLine($"\n===================\nСредний рейтинг : {x.Key} \n");
+                foreach (var y in x)
+                {
+                    y.Show();
+                }
+            }
+            PrintMethod(false);
+
+            var GroupByAVGLINQExpantion = (city.SelectMany(inst => inst.Select(p => p.Value))).GroupBy(p => p.AVGRating);
+
+            foreach (IGrouping<double, Person> x in GroupByAVGLINQExpantion)
+            {
+                Console.WriteLine($"\n===================\nСредний рейтинг : {x.Key} \n");
+                foreach (var y in x)
+                {
+                    y.Show();
+                }
+            }
+
+
+            Console.ReadKey();
+            Console.Clear();
+            Console.ResetColor();
+        }
+
     }
 }
