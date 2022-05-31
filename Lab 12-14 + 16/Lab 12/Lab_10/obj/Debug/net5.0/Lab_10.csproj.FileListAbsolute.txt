@@ -1,0 +1,38 @@
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lab_10.exe
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lab_10.deps.json
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lab_10.runtimeconfig.json
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lab_10.runtimeconfig.dev.json
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lab_10.dll
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\ref\Lab_10.dll
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lab_10.pdb
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.csproj.AssemblyReference.cache
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.AssemblyInfoInputs.cache
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.AssemblyInfo.cs
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.csproj.CoreCompileInputs.cache
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.dll
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\ref\Lab_10.dll
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.pdb
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.genruntimeconfig.cache
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lib.dll
+D:\Code\С#\Aboba\Lab_10\Lab_10\bin\Debug\net5.0\Lib.pdb
+D:\Code\С#\Aboba\Lab_10\Lab_10\obj\Debug\net5.0\Lab_10.csproj.CopyComplete
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lab_10.exe
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lab_10.deps.json
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lab_10.runtimeconfig.json
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lab_10.runtimeconfig.dev.json
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lab_10.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\ref\Lab_10.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lab_10.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lib.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\bin\Debug\net5.0\Lib.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.csproj.AssemblyReference.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.AssemblyInfoInputs.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.AssemblyInfo.cs
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.csproj.CoreCompileInputs.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.csproj.CopyComplete
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\ref\Lab_10.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab_10\obj\Debug\net5.0\Lab_10.genruntimeconfig.cache

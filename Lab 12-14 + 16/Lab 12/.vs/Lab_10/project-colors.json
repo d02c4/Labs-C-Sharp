@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4d9b75c-1fc1-4c5c-bdc6-34a9cff13ba5": {
+      "ProjectGuid": "c4d9b75c-1fc1-4c5c-bdc6-34a9cff13ba5",
+      "DisplayName": "TestCompareBy",
+      "ColorIndex": 0
+    },
+    "46633941-470e-410d-877c-82fa20f13101": {
+      "ProjectGuid": "46633941-470e-410d-877c-82fa20f13101",
+      "DisplayName": "Lib",
+      "ColorIndex": 1
+    },
+    "1da53d1f-b173-4285-a900-20e2677bc5ff": {
+      "ProjectGuid": "1da53d1f-b173-4285-a900-20e2677bc5ff",
+      "DisplayName": "Lab_12",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "ebe69293-9fe8-4ebb-b2cc-3e62445b0751": {
+      "ProjectGuid": "ebe69293-9fe8-4ebb-b2cc-3e62445b0751",
+      "DisplayName": "TestPerson",
+      "ColorIndex": 3
+    },
+    "def739fe-4f25-44bc-9918-5b146a7381dc": {
+      "ProjectGuid": "def739fe-4f25-44bc-9918-5b146a7381dc",
+      "DisplayName": "TestSchoolboy",
+      "ColorIndex": 4
+    },
+    "301e18dd-9d3a-4a2b-8537-b95f3870a878": {
+      "ProjectGuid": "301e18dd-9d3a-4a2b-8537-b95f3870a878",
+      "DisplayName": "TestStudent",
+      "ColorIndex": 5
+    },
+    "23985c85-7962-4338-b279-78f5d7ea2ab7": {
+      "ProjectGuid": "23985c85-7962-4338-b279-78f5d7ea2ab7",
+      "DisplayName": "TestMyCollection",
+      "ColorIndex": 6
+    },
+    "0f1d79f5-d796-4fc6-8bdd-ac186627f798": {
+      "ProjectGuid": "0f1d79f5-d796-4fc6-8bdd-ac186627f798",
+      "DisplayName": "TestNewMyCollection",
+      "ColorIndex": 7
+    },
+    "e6396cf1-8f77-4864-872a-ad2249421162": {
+      "ProjectGuid": "e6396cf1-8f77-4864-872a-ad2249421162",
+      "DisplayName": "TestPartTimeStudent",
+      "ColorIndex": 8
+    },
+    "02caef4d-2866-44ca-a47f-bfb023b2da08": {
+      "ProjectGuid": "02caef4d-2866-44ca-a47f-bfb023b2da08",
+      "DisplayName": "TestNewMyCollection1",
+      "ColorIndex": 9
+    },
+    "1856876b-6879-4888-a0f7-81bc0175eab1": {
+      "ProjectGuid": "1856876b-6879-4888-a0f7-81bc0175eab1",
+      "DisplayName": "TestPoint",
+      "ColorIndex": 10
+    },
+    "0d57af0e-3bcf-46b5-84ea-0f11a3a49fdb": {
+      "ProjectGuid": "0d57af0e-3bcf-46b5-84ea-0f11a3a49fdb",
+      "DisplayName": "TestMyNumerator",
+      "ColorIndex": 11
+    },
+    "499caa52-d4c5-4052-a239-22f18753c868": {
+      "ProjectGuid": "499caa52-d4c5-4052-a239-22f18753c868",
+      "DisplayName": "Lab 13",
+      "ColorIndex": 12
+    },
+    "46acffd9-b359-4c4d-96c7-e4e5bb3c2aa2": {
+      "ProjectGuid": "46acffd9-b359-4c4d-96c7-e4e5bb3c2aa2",
+      "DisplayName": "ObserveNewCollection",
+      "ColorIndex": 13
+    },
+    "b51faaa7-d5d4-4319-818a-f1bc3a15211b": {
+      "ProjectGuid": "b51faaa7-d5d4-4319-818a-f1bc3a15211b",
+      "DisplayName": "TestJournalEntry",
+      "ColorIndex": 14
+    },
+    "e8f36cc4-28cc-460b-bd09-e918d5cf3b7c": {
+      "ProjectGuid": "e8f36cc4-28cc-460b-bd09-e918d5cf3b7c",
+      "DisplayName": "Lab_14",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

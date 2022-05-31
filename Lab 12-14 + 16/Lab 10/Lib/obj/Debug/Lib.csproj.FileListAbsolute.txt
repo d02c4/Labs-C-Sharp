@@ -1,6 +1,0 @@
-D:\Code\С#\Aboba\Lab_10\Lib\bin\Debug\Lib.dll
-D:\Code\С#\Aboba\Lab_10\Lib\bin\Debug\Lib.pdb
-D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
-D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.dll
-D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.pdb
-D:\Code\С#\Aboba\Lab_10\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache

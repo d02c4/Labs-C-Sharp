@@ -1,0 +1,11 @@
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\bin\Debug\Lab 13.exe.config
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\bin\Debug\Lab 13.exe
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\bin\Debug\Lab 13.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\bin\Debug\Lib.dll
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\bin\Debug\Lib.pdb
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\obj\Debug\Lab 13.csproj.AssemblyReference.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\obj\Debug\Lab 13.csproj.SuggestedBindingRedirects.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\obj\Debug\Lab 13.csproj.CoreCompileInputs.cache
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\obj\Debug\Lab 13.csproj.CopyComplete
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\obj\Debug\Lab 13.exe
+D:\Study\Sharp\Test_work\Labs-C-Sharp\Lab 12\Lab 13\obj\Debug\Lab 13.pdb
